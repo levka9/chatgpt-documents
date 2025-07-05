@@ -1,0 +1,5 @@
+/.vscode
+/__pycache__
+/secrets.json
+/doc-source
+/responses
